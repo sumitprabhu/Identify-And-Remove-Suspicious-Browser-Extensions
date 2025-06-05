@@ -60,9 +60,9 @@ Malicious browser extensions can:
 
 ## Suspicious Extensions Found and Removed
 
-| Extension Name                | Reason for Removal                          | Permissions Flagged   | Action Taken |
-| ----------------------------- | ------------------------------------------- | --------------------- | ------------ |
-| Hola Free VPN Proxy Unblocker | Misuses user bandwidth as part of a botnet  | Read browsing history | Removed      |
+| Extension Name                | Reason for Removal                          | Permissions Flagged                                                       | Action Taken |
+| ----------------------------- | ------------------------------------------- | ------------------------------------------------------------------------- | ------------ |
+| Hola Free VPN Proxy Unblocker | Misuses user bandwidth as part of a botnet  | Read and change all your data on all websites, Access your proxy settings | Removed      |
 ---
 
 ## Post-Cleanup Outcome
